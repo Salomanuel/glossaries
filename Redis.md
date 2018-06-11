@@ -8,6 +8,9 @@
 # start Redis
 `$ redis-server`
 
+# STOP redis
+`$ sudo service redis-server stop`
+
 # check if Redis is working
 `$ redis-cli ping`
 `PONG`
