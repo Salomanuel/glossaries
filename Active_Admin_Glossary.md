@@ -19,5 +19,11 @@ and in our case, the credentials are in:
 ```
 
 ## `default actions`
-
 The `default_actions` method adds the “View”, “Edit” and “Destroy” links.
+
+## renaming columns
+`column 'New Name', :name`
+
+## filter
+amazing options, such as
+- `filter :author, :as => :check_boxes`
