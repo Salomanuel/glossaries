@@ -17,3 +17,7 @@ and in our case, the credentials are in:
 - email: 'jw@cashcape.com'
 - password: 'pleasechangeme'
 ```
+
+## `default actions`
+
+The `default_actions` method adds the “View”, “Edit” and “Destroy” links.
